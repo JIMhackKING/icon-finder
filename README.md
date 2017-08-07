@@ -70,3 +70,5 @@
 				f.write(im)
 
 主要的函数完成了，最后一步就是运行，遍历<font color="red">urls</font>，然后传值进<font color="red">icon\_links</font>函数，之后再把返回值传进<font color="red">save\_image</font>函数就可以了
+
+**iconfinder网站上面大多数都是要收费的图标，设计师设计一个图标要花费很多精力和时间，我们不能随便就拿走别人的心血，该付费的我们还是要付费，不偷不抢，做个有修养的工程师**
