@@ -19,7 +19,7 @@
 
 <font color="red">sizes</font>指定了你想要爬取的图片尺寸（有其他可选的16，20，24，32）
 
-###iconfinder.py
+### iconfinder.py
 
 这个文件是爬虫的主程序
 
