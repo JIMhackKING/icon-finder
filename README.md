@@ -2,7 +2,7 @@
 
 [http://www.iconfinder.com](http://www.iconfinder.com "iconfinder")上有很多精美的图标，但是一张一张的保存很麻烦，当然网站上也可以下载一系列的图标，不过在他自带的下载方式下载的话只能一次下载一种尺寸的图标。<font color="#9933ff">iconfinder</font>这个脚本可以自动爬取指定系列、尺寸的图标，并分类保存在相应的文件夹中。
 
-###configure.py
+### configure.py
 
 	# 要爬取的图标集
 	urls = [
